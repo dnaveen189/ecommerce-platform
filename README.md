@@ -310,5 +310,5 @@ For issues or questions, please open an issue on the [GitHub repository](https:/
 
 ---
 
-**Made with ❤️ by ShopSmart Team**
+**Made with ❤️ by Darsi. Naveen**
 
